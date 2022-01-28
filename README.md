@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MehsterTurdlord
-- 👀 I’m interested in cerebral games, and games in general
-- 🌱 I’m currently learning Python, Java, and anything else I can get my hands on.
+- 👋 Hi, I’m @MehsterTurdlord.
+- 👀 I’m interested in cerebral games, and games in general.
+- 🌱 I’m currently learning Python, Javascript - and just about anything else my projects need of me.
 
 
 <!---
