@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehsterTurdlord, real name Ehsan.
 - 👀 I’m interested in automation, strategy games, and working with the magical lines that command the rocks we power with lightning, or so called "computers".
-- 🌱 I’m currently learning Bash
+- 🌱 I’m currently learning Shell as an aside to my university material.
 
 
 <!---
